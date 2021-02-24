@@ -1,0 +1,38 @@
+body {
+  background-color: #badc58;
+}
+
+a {
+  text-decoration: none;
+}
+
+#header {
+  background-color: #6ab04c;
+  height: 100px;
+}
+
+#menuForm {
+  width: 1020px;
+  height: 720px;
+  border: 1px solid black;
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #dff9fb;
+}
+
+.menuDados {
+  padding: 20px;
+  height: 45px;
+  width: 135px;
+  border: 1px solid red;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  font-family: 'Times New Roman', Times, serif;
+}
